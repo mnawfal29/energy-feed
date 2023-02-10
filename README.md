@@ -1,6 +1,6 @@
 # energy-feed
 
-Clone this repo: `git clone https://github.com/D-z-V/energy-feed.git`
+Clone this repo: `git clone https://github.com/mnawfal29/energy-feed.git`
 
 ## To run server : 
 ```
